@@ -1,11 +1,17 @@
-body{
-    color: green;
-    
-   font-family: heebo, sans-serif;
-    
-}
-h1{color : orange}
-h2{color : orange
-    
-} 
+body {
+    color: black;
 
+    font-family: heebo, sans-serif;
+
+}
+
+h1 {
+    color: saddlebrown
+}
+
+h2 {
+    color: saddlebrown
+}
+.container {
+    max-height: 800px:
+}
