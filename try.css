@@ -12,6 +12,35 @@ h1 {
 h2 {
     color: saddlebrown
 }
-.container {
-    max-height: 800px:
+.container { 
+    max-width: 800px;
+    margin: auto; 
+}
+.botton {
+    background-color: firebrick;
+   text-decoration: none;
+    color: aliceblue; 
+    padding: 10px; 
+}
+
+.cta {
+    background-color: antiquewhite; 
+    padding: 10px;
+    padding-left: 40px;
+    overflow: hidden;
+     
+}
+
+img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+
+.alignleft {
+    float: left;
+}
+
+.cta .alignleft{ max-width: 200px;
 }
