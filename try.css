@@ -44,3 +44,18 @@ img {
 
 .cta .alignleft{ max-width: 200px;
 }
+
+.news{
+padding: 60px;
+background:url(img/bg.jpg); 
+background-position: center;
+background-size: cover;
+text-align: center;
+font-size:24px;
+    color: #000
+}
+.news h2 {
+    color: darkolivegreen;
+font-size: 50px;  
+        
+}
