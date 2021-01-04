@@ -1,0 +1,19 @@
+body{
+   font-family: 'Assistant', sans-serif;
+    
+}
+
+h1,h2,h3{
+    font-family: 'Secular One', sans-serif;
+}
+
+
+.about {
+background-color: black;
+    
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+}
+ 
