@@ -76,3 +76,45 @@ border-radius: 50px;
     display: block;
     margin:  15px auto;
 }
+
+
+
+.gallery {
+  list-style: none;
+  padding: 0;
+}
+
+.gallery {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.gallery img {
+  display: block;
+}
+
+.gallery {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 28px;
+}
+.gallery img {
+  display: block;
+}
+h2{
+    text-align: center;
+}
+h2 {
+  font-size: 36px;
+  text-align: center;
+}
+
+
+
+
+
+
