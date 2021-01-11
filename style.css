@@ -46,8 +46,9 @@ img {
 }
 
 .about img {
-    display: block;
+    display: inline block;
 }
+
 h1 {
     font-size: 48px;
     line-height: 1.1;
