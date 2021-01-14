@@ -46,7 +46,7 @@ img {
 }
 
 .about img {
-    display: inline block;
+    display: inline-block;
 }
 
 h1 {
