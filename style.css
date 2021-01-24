@@ -24,7 +24,7 @@ h4,
 .about {
     background-color:#000;
     color: #fff;
-    font-size: 21px;
+    font-size:30px;
 }
 
 .container {
@@ -43,13 +43,13 @@ img {
 
 .about .container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1.5fr 1.5fr;
     align-items: center;
     grid-gap:30px;
 }
 
 .about img {
-    display: inline-block;
+    display:inline block;
 }
 
 h1 {
@@ -76,7 +76,7 @@ border-radius: 50px;
 }
 
 .logo{
-    max-width:150px;
+    max-width:250px;
     display: block;
     margin:  15px auto;
 }
@@ -123,8 +123,8 @@ h2 {
   text-align: center;
 }
 .about img {
-  display: block;
-  margin-top: 200px;
+  display:block;
+  margin-top:200px;
 }
 
 .contact  {
